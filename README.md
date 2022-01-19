@@ -1,5 +1,5 @@
 ### Date created
-19-1-2022
+19 Jan 2022
 
 ### File Name
 bikeshare.py
