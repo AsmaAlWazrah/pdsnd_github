@@ -1,8 +1,11 @@
 ### Date created
 19-1-2022
 
+### File Name
+bikeshare.py
+
 ### Project Title
-Bikeshare data for Chicago, Newyork and Washington
+Bikeshare data for Chicago, New york and Washington
 
 ### Description
 We are trying to give insight about the customer and rental patterns for three cities.
