@@ -17,3 +17,8 @@ washington.csv
 
 ### Credits
 Special thanks to Udacity for providing data with full support
+
+
+### Notification
+We did not include data files in the project because they are huge.
+

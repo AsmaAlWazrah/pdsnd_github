@@ -12,8 +12,8 @@ MONTH_DATA =[ 'all', 'january', 'february','march','april','may','june']
 DAY_DATA =[ 'all','monday','tuesday','wednesday','thursday','friday','saturday','sunday']
 
 def get_filters():
-    
-    print('Hello! Let\'s explore some US bikeshare data!')
+#update first bikeshare message
+    print('Hello there! Let\'s explore some US bikeshare data!')
     
     while True:
         try:
